@@ -1,6 +1,4 @@
 
-Berikut adalah template README yang dapat digunakan untuk repositori backend Anda di GitHub:
-
 E-Commerce Backend
 Backend untuk aplikasi e-commerce yang dibangun menggunakan Node.js dan Express.
 
